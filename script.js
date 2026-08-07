@@ -537,7 +537,7 @@ function updateYear(){
 
         year.innerHTML=
 
-        `© ${new Date().getFullYear()} M&M Consulting. All Rights Reserved.`;
+        `© ${new Date().getFullYear()} M&M. All Rights Reserved.`;
 
     }
 
